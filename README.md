@@ -30,7 +30,7 @@
 - Springboot
   => Spring Boot는 자바 기반의 웹 애플리케이션 개발을 단순화하고 생산성을 향상시키는 프레임워크입니다. 많은 개발자들이 Spring Boot를 사용하고 있어 안정성과 지원이 확실한 기술을 선택했습니다.
 
-- RasberryPi3(Python)
+- RasberryPi4(Python)
   => Python은 Raspberry Pi에서 사용하기에 편리하며 많은 개발자가 활용하고 있습니다.
 
 - AI(Python)
