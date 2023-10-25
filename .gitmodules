@@ -1,0 +1,12 @@
+[submodule "AIServer"]
+	path = AIServer
+	url = https://github.com/I5BrilliantStar/AIserver
+[submodule "Backend"]
+	path = Backend
+	url = https://github.com/I5BrilliantStar/Backend
+[submodule "Frontend"]
+	path = Frontend
+	url = https://github.com/LUKR7Q/frontI5
+[submodule "IoT"]
+	path = IoT
+	url = https://github.com/I5BrilliantStar/IoT
