@@ -1,7 +1,7 @@
 <h1 align="center">스마트 물류 자동화 시스템 프로젝트 👍</h1>
 
 <center>
-    <img src="./img/pic1.png"  style="zoom:76%;" align="center"/>
+    <img src="./img/I5logo.png"  style="zoom:76%;" align="center"/>
 </center>
 
 > [한국품질재단] 프로젝트 기반 ICT 융합 스마트팩토리 전문가 양성과정 / 1팀
@@ -52,9 +52,7 @@ Apache Kafka: Apache Kafka를 활용하여 IoT 장비와 백엔드 서버 간의
 
 ### 1. QR 코드로 물류 인식
 
-<center>
-    <img src="./img/pic2.png" />
-</center>
+🎬[클릭해서 유튜브로 이동](https://www.youtube.com/watch?v=YpPmn7hPwsQ)
 
 ```sh
 AI Server에서 QR코드 인식 및 처리를 합니다.
@@ -67,26 +65,26 @@ QR코드 인식 후 DB에 저장 및 컨베이어벨트, 로봇팔 작동을 작
 ### 2. IoT 장비 제어
 
 <center>
-    <img src="./img/pic1.png" />
+    <img src="./img/camera.gif" />
 </center>
-
 ```sh
 Websocket으로 백엔드에게 IoT 장비 명령 메시지 전달합니다.
 
 Kafka로 프론트엔드에서 받은 메시지 IoT 장비에게 메시지 전달합니다.
-```
+
+````
 
 <br>
 
 ### 3. DB에 저장된 상품목록 수정 및 삭제 가능
 
 <center>
-    <img src="./img/pic1.png" />
+    <img src="./img/db2.gif" />
 </center>
 
 ```sh
 백엔드 API를 사용하여 DB에 저장된 상품목록을 수정하거나 삭제할 수 있습니다.
-```
+````
 
 <br>
 
